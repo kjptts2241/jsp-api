@@ -9,6 +9,6 @@
 
 <%
     String search = request.getParameter("search");
-    String newsDate = NaverApiSearch.newApi(search);
+    String newsDate = NaverApiSearch.newsApi(search);
     out.println(newsDate);
 %>
