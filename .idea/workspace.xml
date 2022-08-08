@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48e48c29-834d-44a0-aa5b-a5d8991dbbee" name="Changes" comment="네이버 뉴스 API 활용">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/NaverApiSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/NaverApiSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="48e48c29-834d-44a0-aa5b-a5d8991dbbee" name="Changes" comment="네이버 뉴스 API 활용" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659680465567</updated>
       <workItem from="1659680466788" duration="8803000" />
-      <workItem from="1659921112947" duration="3100000" />
+      <workItem from="1659921112947" duration="3476000" />
     </task>
     <task id="LOCAL-00001" summary="jsp api 검색">
       <created>1659687589772</created>
@@ -206,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659690223553</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="네이버 뉴스 API 활용">
+      <created>1659924959528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659924959528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
